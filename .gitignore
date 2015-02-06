@@ -1,6 +1,13 @@
+.DS_Store
+
 *.iml
 *.sc
-.DS_Store
 .idea
+*.ipr
+*.iws
+
 settings.xml
 target
+build
+
+.gradle
