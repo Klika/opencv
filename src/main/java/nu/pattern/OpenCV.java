@@ -323,10 +323,10 @@ public class OpenCV {
       case WINDOWS:
         switch (arch) {
           case X86_32:
-            location = "/nu/pattern/opencv/windows/x86_32/libopencv_java249.dll";
+            location = "/nu/pattern/opencv/windows/x86_32/libopencv_java2410.dll";
             break;
           case X86_64:
-            location = "/nu/pattern/opencv/windows/x86_64/libopencv_java249.dll";
+            location = "/nu/pattern/opencv/windows/x86_64/libopencv_java2410.dll";
             break;
           default:
             throw new UnsupportedPlatformException(os, arch);
